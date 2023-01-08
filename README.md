@@ -1,2 +1,2 @@
 Glitch website ...>
-https://movie-pedia.glitch.com
+https://movie-pedia.glitch.me/
